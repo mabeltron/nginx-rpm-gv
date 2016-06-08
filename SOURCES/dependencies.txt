@@ -1,0 +1,48 @@
+/bin/sh  
+/bin/sh  
+/bin/sh  
+/bin/sh  
+/bin/sh  
+chkconfig  
+chkconfig  
+config(nginx) = 1.2.9-1
+initscripts  
+initscripts  
+libc.so.6()(64bit)  
+libc.so.6(GLIBC_2.10)(64bit)  
+libc.so.6(GLIBC_2.2.5)(64bit)  
+libc.so.6(GLIBC_2.3)(64bit)  
+libc.so.6(GLIBC_2.3.2)(64bit)  
+libc.so.6(GLIBC_2.3.4)(64bit)  
+libc.so.6(GLIBC_2.4)(64bit)  
+libcrypt.so.1()(64bit)  
+libcrypt.so.1(GLIBC_2.2.5)(64bit)  
+libcrypto.so.10()(64bit)  
+libcrypto.so.10(libcrypto.so.10)(64bit)  
+libdl.so.2()(64bit)  
+libm.so.6()(64bit)  
+libnsl.so.1()(64bit)  
+libpcre.so.0()(64bit)  
+libperl.so()(64bit)  
+libpthread.so.0()(64bit)  
+libpthread.so.0(GLIBC_2.2.5)(64bit)  
+libresolv.so.2()(64bit)  
+libutil.so.1()(64bit)  
+libz.so.1()(64bit)  
+openssl  
+pcre  
+perl >= 0:5.006001
+perl(:MODULE_COMPAT_5.10.1)  
+perl(Exporter)  
+perl(XSLoader)  
+perl(constant)  
+perl(strict)  
+perl(warnings)  
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+rpmlib(PayloadFilesHavePrefix) <= 4.0-1
+rpmlib(VersionedDependencies) <= 3.0.3-1
+rtld(GNU_HASH)  
+shadow-utils  
+zlib  
+rpmlib(PayloadIsXz) <= 5.2-1
