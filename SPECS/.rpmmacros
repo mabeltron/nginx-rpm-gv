@@ -1,0 +1,6 @@
+%_topdir	/usr/src/redhat
+%_localtmpdir	/usr/local/nginx
+%_prefix        /usr/local/nginx
+%_exec_prefix   %{_prefix}
+%_datadir       %{_prefix}
+
